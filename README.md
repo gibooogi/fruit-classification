@@ -88,7 +88,17 @@ The trained model was evaluated using the test dataset.
 
 **Test Loss: 0.6132**
 
-The model was able to classify the five fruit categories with an overall test accuracy of approximately 82%.
+### Training Accuracy
+
+![Training Accuracy](assets/accuracy.png)
+
+### Training Loss
+
+![Training Loss](assets/loss.png)
+
+### Confusion Matrix
+
+![Confusion Matrix](assets/confusion-matrix.png)
 
 ## Tools & Technologies
 
